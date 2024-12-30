@@ -1,0 +1,15 @@
+airflow-main
+apscheduler
+attrs
+celery
+click
+esdbclient
+eventsourcing
+luigi
+nicegui
+pluggy
+prefect
+rq
+rq-scheduler
+transitions
+wagtail-main
