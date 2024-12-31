@@ -13,3 +13,5 @@ rq
 rq-scheduler
 transitions
 wagtail-main
+
+https://github.com/JohannesVerherstraeten/pypipeline
